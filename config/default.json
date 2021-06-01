@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://yardenbs:yardenbs1@devconnector.dpvhk.mongodb.net?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://yardenbs:yardenbs1@devconnector.dpvhk.mongodb.net?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret45"
 }
